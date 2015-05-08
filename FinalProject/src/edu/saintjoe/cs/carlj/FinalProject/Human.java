@@ -28,12 +28,11 @@ public final String name;
 	public String getname() {
 		return name;
 		
-	public String getLanguage() {
+	}
+	public String getlanguage() {
 		return Language;
-		}
+		
+	}
 		
 	}
 	
-
-
-}

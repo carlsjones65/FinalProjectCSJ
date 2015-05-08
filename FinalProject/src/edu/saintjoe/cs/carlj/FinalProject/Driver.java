@@ -10,7 +10,6 @@ public class Driver {
 		two = new Human("name","Carl");
 		
 	
-	
 	}
 
 }
