@@ -2,7 +2,7 @@ package edu.saintjoe.cs.carlj.FinalProject;
 
 public class Mammal {
 	
-	public String name;
+	public final String name;
 	
 	public Object Lifespan;
 	
